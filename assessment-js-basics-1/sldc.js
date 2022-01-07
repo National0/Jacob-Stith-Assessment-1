@@ -24,4 +24,5 @@ const planning = "This is the first step, in which the end goal of the software 
 const analysisAndRequirements = ""
 const design = "This is the third step, in which the goal is to show desired features, operations as well as a detailed descritipion of the system layouts, rules and ect."
 const implementation = "The is the fourth step, in which the goal is to write our the desired code."
-const testingAndIntergration = ""
+const testingAndIntergration = "This is the fifth step, in which the goal is to bring all of the modules together, and check for errors and bugs."
+const maintain = "The is the final step, in which the system is evaluated."
