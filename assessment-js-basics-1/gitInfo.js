@@ -30,7 +30,7 @@ var gitHubbDefinition = "Git Hub is a website where you can store saved projects
 */
 
 //CODE HERE
-var gitInitDefinition = "GitInit initializes a local repository in the folder."
+var gitInitDefinition = "GitInit initializes a local repository in the folder with the command git init."
     console.log (gitInitDefinition)
 //////////////////PROBLEM 4////////////////////
 /*
@@ -39,7 +39,7 @@ var gitInitDefinition = "GitInit initializes a local repository in the folder."
 */
 
 //CODE HERE
-var gitCloneDefinition = "gitClone- This allows the users to copy the selected file."
+var gitCloneDefinition = "gitClone- This allows the user to copy a selected file."
     console.log (gitCloneDefinition)
 //////////////////PROBLEM 5////////////////////
 /*
@@ -48,7 +48,7 @@ var gitCloneDefinition = "gitClone- This allows the users to copy the selected f
 */
 
 //CODE HERE
-var gitStatusDefinition = "gitStatus- This allows the user to see what changed from last commit and general information."
+var gitStatusDefinition = "gitStatus- This allows the user to see the changes made, and general informaiton about the file."
     console.log (gitStatusDefinition)
 //////////////////PROBLEM 6////////////////////
 /*
@@ -60,10 +60,10 @@ var gitStatusDefinition = "gitStatus- This allows the user to see what changed f
 */
 
 //CODE HERE
-var getAddDefinition = "gitAdd- This allows the user to select a file to be tracked."
-var getAddCode = "gitAddCode- This allows the user to attach the selected file to the GitHub cloud to be stored."
-    console.log (getAddDefinition)
-    console.log (getAddCode)
+var gitAddDefinition = "gitAdd- git add is used with the command, git add *file that you want to be tracked. This allows the user to select the file to be tracked."
+var gitAddCode = "gitAddCode- This allows the user"
+    console.log (gitAddDefinition)
+    console.log (gitAddCode)
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -74,10 +74,8 @@ var getAddCode = "gitAddCode- This allows the user to attach the selected file t
 */
 
 //CODE HERE
-var gitCommitDefinition = "gitCommit- This takes a snapshot of tracked file."
-var gitCommitCode = "gitCommtCode- This allows the user "
-    console.log (gitCommitDefinition)
-    console.log (gitCommitCode)
+
+//Git commmit is used with the code, git commit and is used to take a snapshot. 
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -86,5 +84,5 @@ var gitCommitCode = "gitCommtCode- This allows the user "
 */
 
 //CODE HERE
-var gitPushDefinition = "gitPush- This allows the user to backup project to the gitHubb cloud."
-    console.log (gitPushDefinition)
+
+// Git Push is used with the command, git push *name of file, and is used to save a file to the gitHubb. 

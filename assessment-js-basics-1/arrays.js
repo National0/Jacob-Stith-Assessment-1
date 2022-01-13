@@ -21,10 +21,7 @@ const numbers = [1, 2, 3, 4, 5]
 
 //CODE HERE
 
-var numsArr = [1,2,3,4,5]
-for (let i = 0; i < numsArr.length; i++){
-  if ()
-}
+const middleNums = numbers.splice(1,3)
 
 //////////////////PROBLEM 4////////////////////
 /* 
